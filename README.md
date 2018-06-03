@@ -29,7 +29,7 @@ automatic optimization functionality for PNG, GIF and JPEG files.
 - Optimizes GIFs
 - Optimizes animated GIFs
 - Optimizes JPGs (uses MozJPEG)
-- Works on single images files or entire folders
+- Works on disk image file or image bytes
 - Copy any image as base64 dataURI string
 
 ## Optimize images
@@ -53,10 +53,6 @@ If you decide to sacrifice just a small amount of image quality
 be able to save up to 90% of the initial file weight. Lossy
 optimization will give you outstanding results with just a
 fraction of image quality loss
-
-## Contribute
-Check out the [contribution guidelines](.github/CONTRIBUTING.md)
-if you want to contribute to this project.
 
 ## License
 [Apache 2.0](LICENSE)
